@@ -1642,6 +1642,7 @@ button:not(:disabled) {
 .form-group label {
   font-size: 14px;
   font-weight: 700;
+ 
 }
 
 .form-group .form-control {
